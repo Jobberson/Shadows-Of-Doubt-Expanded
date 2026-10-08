@@ -1,0 +1,79 @@
+{
+  "presetName": "",
+  "notes": "",
+  "disabled": false,
+  "compatibleWith": [
+    "REF:MurderPreset|SerialKiller"
+  ],
+  "baseDifficulty": 0,
+  "maximumPotentialScore": 0,
+  "updateThis": false,
+  "pickRandomScoreRange": {
+    "x": 0,
+    "y": 1
+  },
+  "murdererTraitModifiers": [],
+  "murdererJobModifiers": [],
+  "murdererCompanyModifiers": [],
+  "useMurdererSocialClassRange": false,
+  "murdererClassRange": {
+    "x": 0,
+    "y": 1
+  },
+  "murdererClassRangeBoost": 0,
+  "useHexaco": false,
+  "hexaco": {
+    "outputMin": 1,
+    "outputMax": 10,
+    "enableFeminineMasculine": false,
+    "feminineMasculine": 0,
+    "enableHumility": false,
+    "humility": 0,
+    "enableEmotionality": false,
+    "emotionality": 0,
+    "enableExtraversion": false,
+    "extraversion": 0,
+    "enableAgreeableness": false,
+    "agreeableness": 0,
+    "enableConscientiousness": false,
+    "conscientiousness": 0,
+    "enableCreativity": false,
+    "creativity": 0
+  },
+  "requiresSniperVantageAtHome": false,
+  "weaponsPool": [],
+  "blockDroppingWeapons": false,
+  "allowAnywhere": false,
+  "allowHome": true,
+  "allowWork": false,
+  "allowPublic": false,
+  "allowStreets": false,
+  "allowDen": false,
+  "acquaintedSuitabilityBoost": 0,
+  "attractedToSuitabilityBoost": 0,
+  "likeSuitabilityBoost": 0,
+  "sameWorkplaceBoost": 0,
+  "murdererIsTenantBoost": 0,
+  "victimRandomScoreRange": {
+    "x": 0,
+    "y": 1
+  },
+  "victimTraitModifiers": [],
+  "victimJobModifiers": [],
+  "victimCompanyModifiers": [],
+  "useVictimSocialClassRange": false,
+  "victimClassRange": {
+    "x": 0,
+    "y": 1
+  },
+  "victimClassRangeBoost": 0,
+  "monkierDDSMessageList": "",
+  "confessionalDDSResponses": [],
+  "MOleads": [],
+  "graffiti": [],
+  "callingCardPool": [],
+  "playerTaunts": [],
+  "fileType": "MurderMO",
+  "name": "",
+  "copyFrom": null
+}

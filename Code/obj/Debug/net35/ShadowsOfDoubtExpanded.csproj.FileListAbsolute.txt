@@ -1,0 +1,6 @@
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net35\ShadowsOfDoubtExpanded.csproj.AssemblyReference.cache
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net35\MyPluginInfo.cs
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net35\ShadowsOfDoubtExpanded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net35\ShadowsOfDoubtExpanded.AssemblyInfoInputs.cache
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net35\ShadowsOfDoubtExpanded.AssemblyInfo.cs
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net35\ShadowsOfDoubtExpanded.csproj.CoreCompileInputs.cache

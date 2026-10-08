@@ -1,0 +1,17 @@
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\bin\Debug\net6.0\ShadowsOfDoubtExpanded.deps.json
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\bin\Debug\net6.0\ShadowsOfDoubtExpanded.dll
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\bin\Debug\net6.0\ShadowsOfDoubtExpanded.pdb
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\bin\Debug\net6.0\Assembly-CSharp.dll
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\bin\Debug\net6.0\Il2Cppmscorlib.dll
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net6.0\ShadowsOfDoubtExpanded.csproj.AssemblyReference.cache
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net6.0\MyPluginInfo.cs
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net6.0\ShadowsOfDoubtExpanded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net6.0\ShadowsOfDoubtExpanded.AssemblyInfoInputs.cache
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net6.0\ShadowsOfDoubtExpanded.AssemblyInfo.cs
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net6.0\ShadowsOfDoubtExpanded.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net6.0\ShadowsO.011C2C16.Up2Date
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net6.0\ShadowsOfDoubtExpanded.dll
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net6.0\refint\ShadowsOfDoubtExpanded.dll
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net6.0\ShadowsOfDoubtExpanded.pdb
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\obj\Debug\net6.0\ref\ShadowsOfDoubtExpanded.dll
+C:\Users\Pedro Schenegoski\ShadowsOfDoubtExpanded\bin\Debug\net6.0\SOD.Common.dll

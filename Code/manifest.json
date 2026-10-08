@@ -1,0 +1,12 @@
+{
+  "name": "ShadowsOfDoubtExpanded",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Adds new serial killer archetypes to Shadows of Doubt: The Neighbor, The Fanatic, and The Closer.",
+  "dependencies": [
+    "BepInEx-BepInExPack_IL2CPP-6.0.755",
+    "Piepieonline-Asset_Bundle_Loader-2.1.2",
+    "Piepieonline-DDSLoader-1.0.9",
+    "Venomaus-SODCommon-2.1.4"
+  ]
+}
