@@ -1,4 +1,4 @@
-# Shadows of Doubt Expanded Mod
+<h1 align=center>Shadows of Doubt Expanded Mod</h1>
 
 Adds three new serial killer archetypes to **Shadows of Doubt**, each with its own
 victim/murderer selection logic, weapon pool, moniker, and a full set of
